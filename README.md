@@ -1,16 +1,17 @@
-# todo_app
+# 📝 Todo App
 
-A new Flutter project.
+A modern Flutter-based todo list application with Firebase Firestore integration.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 📌 Add, edit, and delete tasks  
+- ✅ Mark tasks as completed  
+- 🔍 Search tasks by title or subtitle  
+- 📅 Select due dates for tasks  
+- 🧠 Choose category icons (work, school, shopping, etc.)  
+- 🔄 Real-time sync with Firebase Firestore  
+- 🔃 Filter tasks by status: All, Completed, Pending  
 
-A few resources to get you started if this is your first Flutter project:
+## 📷 Screenshot
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App Screenshot](assets/images/ss.png)
